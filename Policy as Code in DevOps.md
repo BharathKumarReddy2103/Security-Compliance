@@ -127,6 +127,8 @@ If policies are not met, the CI/CD pipeline:
      
    - If all policies pass, the change is approved and deployed.
 
+---
+
 4. **Tools for Policy as Code**
 
    - 1. **Kyverno**
@@ -154,7 +156,9 @@ If policies are not met, the CI/CD pipeline:
 
 These tools play a critical role in Policy as Code (PaC) by automating security, governance, and compliance across cloud, Kubernetes, and infrastructure 
 deployments.
-   
+
+---
+
 5. **Common Policy as Code Use Cases**
    
 **Cloud Security Compliance**
