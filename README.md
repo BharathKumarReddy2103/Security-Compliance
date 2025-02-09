@@ -4,17 +4,17 @@ Welcome to the **Security & Compliance** repository. This repository is dedicate
 
 📌 **What This Repository Covers**
 
-   - Cloud Security: Security best practices for AWS, Azure, and GCP.
+   - **Cloud Security**: Security best practices for AWS, Azure, and GCP.
 
-   - DevSecOps: Integrating security into CI/CD pipelines.
+   - **DevSecOps**: Integrating security into CI/CD pipelines.
 
-   - Infrastructure as Code (IaC) Security: Securing Terraform, Ansible, and Kubernetes configurations.
+   - **Infrastructure as Code (IaC) Security**: Securing Terraform, Ansible, and Kubernetes configurations.
 
-   - Compliance Frameworks: NIST, ISO 27001, SOC 2, CIS Benchmarks, GDPR, HIPAA.
+   - **Compliance Frameworks**: NIST, ISO 27001, SOC 2, CIS Benchmarks, GDPR, HIPAA.
 
-   - Security Automation: Scripts for vulnerability scanning, secret management, and policy enforcement.
+   - **Security Automation**: Scripts for vulnerability scanning, secret management, and policy enforcement.
 
-   - Threat Detection & Incident Response: Logging, monitoring, and alerting strategies.
+   - **Threat Detection & Incident Response**: Logging, monitoring, and alerting strategies.
 
 📂 **Repository Structure**
 
