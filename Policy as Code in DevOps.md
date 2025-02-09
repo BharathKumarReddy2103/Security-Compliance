@@ -81,7 +81,7 @@ This policy:
    - Ensures no container runs in privileged mode.
      
    - If violated, CI/CD will block deployment.
-   - 
+
 **Step 2: Policy Engine Validates the Code**
 
 A policy engine like Kyverno or OPA (Open Policy Agent) validates the policies before merging or deploying the infrastructure.
