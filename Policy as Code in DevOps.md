@@ -152,8 +152,8 @@ If policies are not met, the CI/CD pipeline:
            Kubernetes Gatekeeper is an OPA-based policy controller that enforces OPA policies inside Kubernetes clusters. It acts as an Admission Controller to validate and 
            enforce Kubernetes security policies before resource creation.
 
-           These tools play a critical role in Policy as Code (PaC) by automating security, governance, and compliance across cloud, Kubernetes, and infrastructure 
-           deployments.
+These tools play a critical role in Policy as Code (PaC) by automating security, governance, and compliance across cloud, Kubernetes, and infrastructure 
+deployments.
    
 5. **Common Policy as Code Use Cases**
    
