@@ -161,29 +161,29 @@ deployments.
 
 5. **Common Policy as Code Use Cases**
    
-**Cloud Security Compliance**
+ **Cloud Security Compliance**
      
-- Ensure only encrypted storage (e.g., AWS S3, Azure Blob Storage).
+ - Ensure only encrypted storage (e.g., AWS S3, Azure Blob Storage).
    
-- Restrict IAM roles from having wildcard * permissions.
+ - Restrict IAM roles from having wildcard * permissions.
      
-**Kubernetes Security**
+ **Kubernetes Security**
    
-- Block containers running as root.
+ - Block containers running as root.
      
-- Restrict public LoadBalancers in Kubernetes.
+ - Restrict public LoadBalancers in Kubernetes.
      
-**Terraform Governance**
+ **Terraform Governance**
    
-- Enforce tagging conventions for all AWS resources.
+ - Enforce tagging conventions for all AWS resources.
      
-- Restrict Terraform apply on production environments.
+ - Restrict Terraform apply on production environments.
      
-**CI/CD Pipeline Security**
+ **CI/CD Pipeline Security**
    
-- Ensure only signed container images are deployed.
+ - Ensure only signed container images are deployed.
      
-- Validate that secrets are not exposed in Git repositories.
+ - Validate that secrets are not exposed in Git repositories.
 
 ---
 
