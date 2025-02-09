@@ -33,12 +33,14 @@ Welcome to the **Security & Compliance** repository. This repository is dedicate
 🚀 **Getting Started**
 
 1. **Clone the repository**:
-   
+
+```bash
      git clone https://github.com/your-username/security-compliance.git
    
      cd security-compliance
+```
    
-2. **Explore the sections** based on your needs.
+1. **Explore the sections** based on your needs.
    
 🤝 **Contributing**
 
