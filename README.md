@@ -40,7 +40,7 @@ Welcome to the **Security & Compliance** repository. This repository is dedicate
      cd security-compliance
 ```
    
-1. **Explore the sections** based on your needs.
+2. **Explore the sections** based on your needs.
    
 🤝 **Contributing**
 
