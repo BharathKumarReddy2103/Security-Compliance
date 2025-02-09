@@ -27,6 +27,7 @@ It ensures that:
 In traditional IT environments, policies were often manual documents. DevOps teams had to follow them manually, leading to human errors, security vulnerabilities, and inconsistency.
 
 With Policy as Code: 
+
 ✅ Automated enforcement: No need for manual reviews.
 
 ✅ Consistent policies: Ensures all environments follow the same security/compliance rules.
