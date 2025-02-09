@@ -157,11 +157,11 @@ deployments.
    
 5. **Common Policy as Code Use Cases**
    
-1. **Cloud Security Compliance**
+     1. **Cloud Security Compliance**
      
-   - Ensure only encrypted storage (e.g., AWS S3, Azure Blob Storage).
+        - Ensure only encrypted storage (e.g., AWS S3, Azure Blob Storage).
    
-   - Restrict IAM roles from having wildcard * permissions.
+        - Restrict IAM roles from having wildcard * permissions.
      
 2. **Kubernetes Security**
    
