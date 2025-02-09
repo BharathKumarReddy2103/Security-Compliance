@@ -19,13 +19,16 @@ Welcome to the **Security & Compliance** repository. This repository is dedicate
 📂 **Repository Structure**
 
 📁 **security-compliance**  
+
+```bash
  ├── 📂 cloud-security/             # Cloud security best practices  
  ├── 📂 devsecops/                  # Security in CI/CD pipelines  
  ├── 📂 iac-security/               # Secure Terraform, Ansible, Kubernetes practices  
  ├── 📂 compliance-frameworks/      # Policies and compliance guidelines  
  ├── 📂 security-automation/        # Security automation scripts  
  ├── 📂 threat-detection/           # Logging, monitoring, and incident response  
- ├── README.md                      # Repository overview  
+ ├── README.md                      # Repository overview
+```
  
 🚀 **Getting Started**
 
