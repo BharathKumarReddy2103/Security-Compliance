@@ -18,9 +18,8 @@ Welcome to the **Security & Compliance** repository. This repository is dedicate
 
 📂 **Repository Structure**
 
-📁 **security-compliance**  
-
 ```bash
+📁 security-compliance  
  ├── 📂 cloud-security/             # Cloud security best practices  
  ├── 📂 devsecops/                  # Security in CI/CD pipelines  
  ├── 📂 iac-security/               # Secure Terraform, Ansible, Kubernetes practices  
